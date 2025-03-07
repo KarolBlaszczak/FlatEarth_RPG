@@ -6,3 +6,7 @@ The idea behind the repositoryu is to collaboratively develop the Flat Earth set
 the bestiary and world maps, as well as propose, develop, and store adventure concepts.
 
 Description coming soon                                                         
+
+:::{tip}
+Let's give readers a helpful hint!
+:::
