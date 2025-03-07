@@ -19,5 +19,6 @@ Let's give readers a helpful hint!
 :class: note
 
 The immutable Microvisor image does not include the Kubernetes software and extensions.
-After the OS is installed, they are deployed on a writable section of the filesystem. Image and orchestration system updates are not enabled natively, at the moment.
+After the OS is installed, they are deployed on a writable section of the filesystem.
+Image and orchestration system updates are not enabled natively, at the moment.
 ```
