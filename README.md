@@ -10,3 +10,6 @@ Description coming soon
 :::{tip}
 Let's give readers a helpful hint!
 :::
+
+> [!NOTE]
+> Make sure to check the compatibility of this library with your project's dependencies.
